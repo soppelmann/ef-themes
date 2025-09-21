@@ -80,6 +80,7 @@
 (defconst ef-themes-dark-themes
   '(ef-autumn
     ef-bio
+    ef-black
     ef-cherie
     ef-dark
     ef-deuteranopia-dark
