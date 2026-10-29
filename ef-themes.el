@@ -87,6 +87,7 @@ and Modus into a single group, enable `modus-themes-include-derivatives-mode'."
   '(ef-atlantis
     ef-autumn
     ef-bio
+    ef-black
     ef-cherie
     ef-dark
     ef-deuteranopia-dark
@@ -118,6 +119,7 @@ and Modus into a single group, enable `modus-themes-include-derivatives-mode'."
     (ef-atlantis ef-themes "Legible dark theme with aquatic colors." dark ef-atlantis-palette nil ef-atlantis-palette-overrides)
     (ef-autumn ef-themes "Legible dark brown-black theme with warm colors (red, yellow, green, teal)." dark ef-autumn-palette nil ef-autumn-palette-overrides)
     (ef-bio ef-themes "Legible dark green-black theme with green, teal, blue, purple colors." dark ef-bio-palette nil ef-bio-palette-overrides)
+    (ef-black ef-themes "Legible dark theme with vibrant Monokai colors." dark ef-black-palette nil ef-black-palette-overrides)
     (ef-cherie ef-themes "Legible dark purple-black theme with warm colors (mostly pink, magenta, gold)." dark ef-cherie-palette nil ef-cherie-palette-overrides)
     (ef-cyprus ef-themes "Legible light ochre theme with green, yellow, teal, red colors." light ef-cyprus-palette nil ef-cyprus-palette-overrides)
     (ef-dark ef-themes "Legible dark theme with blue, magenta, cyan, purple colors." dark ef-dark-palette nil ef-dark-palette-overrides)
